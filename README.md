@@ -23,10 +23,12 @@
    - Search for "Python" and install the extension provided by Microsoft.
 
 4. **Run the Project:**
-   - Open the `encryption_project.py` file in Visual Studio Code.
-   - Click the "Run" button at the top right of the editor or press `F5` to start the program.
-   - Open the `decryption_project.py` file in Visual Studio Code.
-   - Click the "Run" button at the top right of the editor or press `F5` to start the program.
+   4.1. **Run the Encryption Project:**
+     - Open the `encryption_project.py` file in Visual Studio Code.
+     - Click the "Run" button at the top right of the editor or press `F5` to start the program.
+   4.2. **Run the Decryption Project:**
+     - Open the `decryption_project.py` file in Visual Studio Code.
+     - Click the "Run" button at the top right of the editor or press `F5` to start the program.
 
 ### Troubleshooting
 - If you encounter any issues during the setup, please check the error messages and ensure you have a stable internet connection for downloading dependencies.
